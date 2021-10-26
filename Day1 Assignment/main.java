@@ -1,3 +1,6 @@
+import src.Name;
+import src.Balance;
+import src.Intersest_Rate;
 import java.util.*;
 
 public class main {
