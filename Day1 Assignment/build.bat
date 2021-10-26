@@ -1,5 +1,5 @@
 @echo off 
 
-set myclasspath=.;.\codes;
+set myclasspath=.;.\src;
 
 javac -cp %myclasspath% main.java
